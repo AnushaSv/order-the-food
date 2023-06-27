@@ -10,5 +10,5 @@ In addition to the food ordering functionality, the website includes an informat
 
 Source code - https://drive.google.com/drive/folders/1_1Hn7f1LiMV552LNlQrNRjpnqTMkIYKW?usp=sharing
 
-![image](https://github.com/AnushaSv/order-the-food/assets/128282051/a3454197-f22f-444e-8fc3-45c42351ae23)
+
 
